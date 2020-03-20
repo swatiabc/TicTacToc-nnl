@@ -16,3 +16,18 @@ playing with human.
 This is the list of wins, loss, and draws of the program against opponent.
 
 ## Graphs
+![graph for wins,losses,draws](images/TicTacToe_graph.png)
+7 - losses
+3 - draws
+2 - wins
+
+## Output
+Program plays 1
+Opponent plays 0
+toss is random
+-1 is zero
+
+![output 1](images/Capture1.JPG)
+![output 2](images/Capture2.JPG)
+![output 3](images/Capture3.JPG)
+![output 4](images/Capture4.JPG)
