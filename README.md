@@ -22,12 +22,16 @@ This is the list of wins, loss, and draws of the program against opponent.
 2 - wins
 
 ## Output
-Program plays 1
-Opponent plays 0
-toss is random
--1 is zero
+Program plays 1<br>
+Opponent plays 0<br>
+toss is random<br>
+-1 is blank<br>
 
 ![output 1](images/Capture1.JPG)
 ![output 2](images/Capture2.JPG)
 ![output 3](images/Capture3.JPG)
 ![output 4](images/Capture4.JPG)
+
+## References
+https://dhanushkishore.github.io/a_self_learning_tic-tac-toe_player/ <br>
+https://en.wikipedia.org/wiki/Tic-tac-toe
