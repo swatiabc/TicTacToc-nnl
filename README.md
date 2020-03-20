@@ -17,9 +17,11 @@ This is the list of wins, loss, and draws of the program against opponent.
 
 ## Graphs
 ![graph for wins,losses,draws](images/TicTacToe_graph.png)
-7 - losses
-3 - draws
-2 - wins
+7 - losses<br>
+3 - draws<br>
+2 - wins<br>
+
+As the number of games increases, number of losses decreases and number of wins and draws increases  
 
 ## Output
 Program plays 1<br>
